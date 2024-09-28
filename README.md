@@ -49,3 +49,7 @@ Este repositório contém os exemplos das aulas de lógica de programação tran
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
+
+>[!NOTE]
+>
+>Exemplo de Nota.
