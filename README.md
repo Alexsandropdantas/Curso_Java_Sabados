@@ -53,3 +53,5 @@ Este repositório contém os exemplos das aulas de lógica de programação tran
 >[!NOTE]
 >
 >Exemplo de Nota.
+
+Exemplo para merge request
